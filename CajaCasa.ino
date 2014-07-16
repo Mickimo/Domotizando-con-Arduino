@@ -1,4 +1,4 @@
-int EstadoBoton;     //Variable para controlar el estado del botón interior
+int EstadoBoton;     //Variable para controlar el estado del pulsador interior
 
 void setup()
 {
